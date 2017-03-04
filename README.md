@@ -1,6 +1,14 @@
 # wife_paintings
 This folder will contain the paintings from my wife. 
 
+## Wife's tools at home (cubism)
+2017-03-01
+![jpg](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/figure_14.jpg)
+
+## Wife's tools at home
+2017-03-01
+![jpg](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/figure_13.jpg)
+
 ## Mermaid transformation
 2017-02-17
 ![jpg](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/figure_12.jpg)
