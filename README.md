@@ -9,12 +9,12 @@ California poppy <br>  2017-03-17           | Eve temptation <br> 2017-03-17
 At 6 pm <br>  2017-03-01           | At 6 pm (cubism) <br> 2017-03-01
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_13.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_14.jpg)
-| | 
+| [Description](http://qingkaikong.blogspot.com/2017/03/wifes-painting-tools-at-home.html) | [Description](http://qingkaikong.blogspot.com/2017/03/wifes-painting-tools-at-home.html)
 
 Live Model drawing <br>  2017-02-16           | Mermaid transformation <br> 2017-02-17
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_11.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_12.jpg)
-| | 
+| [Description](http://qingkaikong.blogspot.com/2017/02/wife-painting-mermaid-transformation.html)| [Description](http://qingkaikong.blogspot.com/2017/02/wife-painting-mermaid-transformation.html)
 
 My family           | Earthquake on egg shell
 :-------------------------:|:-------------------------:
