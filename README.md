@@ -1,6 +1,12 @@
 # wife_paintings
 This folder will contain the paintings from my wife. 
 
+California poppy             |  Skeleton Eve
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/figure_16.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/figure_15.jpg)
+
+
+
 ## California poppy
 2017-03-17
 ![jpg](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/figure_16.jpg)
