@@ -4,7 +4,7 @@ The following figures are all painted/drew by my talented wife.
 California poppy <br>  2017-03-17           | Eve temptation <br> 2017-03-17
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_16.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_15.jpg)
-
+| | 
 
 At 6 pm <br>  2017-03-01           | At 6 pm (cubism) <br> 2017-03-01
 :-------------------------:|:-------------------------:
