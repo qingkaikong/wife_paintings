@@ -6,7 +6,7 @@ Tar sands <br>  2017-03-30           | Life on Mars <br> 2017-03-30
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_18.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_17.jpg)
 | | 
 
-California poppy <br>  2017-03-17           | Eve temptation <br> 2017-03-17
+California poppy <br>  2017-03-17           | Eve's temptation <br> 2017-03-17
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_16.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_15.jpg)
 | | 
