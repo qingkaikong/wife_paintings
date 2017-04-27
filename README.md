@@ -1,6 +1,11 @@
 # wife_paintings
 The following figures are all painted/drew by my talented wife. 
 
+My daughter's 100 day <br>  2017-04-26           | Self-portrait <br> 2017-04-26
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_19.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_20.jpg)
+| | 
+
 Tar sands <br>  2017-03-30           | Life on Mars <br> 2017-03-30
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_18.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_17.jpg)
