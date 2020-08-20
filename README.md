@@ -1,7 +1,7 @@
 # wife_paintings
 The following figures are all painted/drew by my talented wife. 
 
-Galaxy <br>  2020-08-16           | To be added <br> 2020-xx-xx
+Galaxy <br>  2020-08-16           | Me playing piano <br> 2020-08-19
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_23.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_24.jpg)
 | | 
