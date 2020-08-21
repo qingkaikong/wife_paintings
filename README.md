@@ -1,6 +1,11 @@
 # wife_paintings
 The following figures are all painted/drew by my talented wife. 
 
+Bunny <br>  2020-08-20           | TBD <br> 2020-08-XX
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_25.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_26.jpg)
+| | 
+
 Galaxy <br>  2020-08-16           | Me playing piano <br> 2020-08-19
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_23.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/wife_paintings/master/images/figure_24.jpg)
